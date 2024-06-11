@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raissa</h1>
+<h1 align="center">Sou a Raissa, técnica de informática e programadora!</h1>
 <h3 align="center">I'm student from Brazil/ Eu sou estudante do Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
