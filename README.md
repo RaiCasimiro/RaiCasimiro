@@ -5,7 +5,6 @@
   <li>Futura Desenvolvedora de Jogos</li>
   <li>Estudante de</li>
 </ul>
-<br>
 <!-- <h5 align="center">I'm student from Brazil/ Eu sou estudante do Brasil</h5> -->
 <hr> 
 <h3 align="left">Languages and Tools:</h3>
