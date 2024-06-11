@@ -1,4 +1,5 @@
 <h1 align="center">Sou a Raissa, técnica de informática e programadora!</h1>
+<br>
 <ul>
   <li>Programadora Full-Stack</li>
   <li>Futura Desenvolvedora de Jogos</li>
