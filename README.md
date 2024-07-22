@@ -1,9 +1,9 @@
 <h1 align="center"><strong>Sou a Raissa, Programadora e Técnica de Informática!</strong></h1>
 <br>
 <ul>
-  <li>Programadora Full-Stack</li>
   <li>Análise e Desenvolvimento de Sistemas - USCS</li>
   <li>Técnico em Informática - Senac</li>
+  <li>Programadora Full-Stack</li>
   <li>Futura Desenvolvedora de Jogos</li>
 </ul>
 <!-- <h5 align="center">I'm student from Brazil/ Eu sou estudante do Brasil</h5> -->
