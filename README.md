@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Sou a Raissa, Técnica de Informática e Programadora!</strong></h1>
+<h1 align="center"><strong>Sou a Raissa, Programadora e Técnica de Informática!</strong></h1>
 <br>
 <ul>
   <li>Programadora Full-Stack</li>
